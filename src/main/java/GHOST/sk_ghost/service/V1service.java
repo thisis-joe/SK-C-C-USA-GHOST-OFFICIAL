@@ -19,4 +19,16 @@ public class V1service {
         List<Map<String, String>> list = v1Dao.shiftAdminList();
         return list;
     }
+
+    public int saveSchedule(Map<String, String> scheduleData) {
+        int result = 0;
+        try {
+            result = v1Dao.saveSchedule(scheduleData);
+        } catch (Exception e) {
+            System.out.println("Fail to call v1Dao" + e.getMessage());
+            e.printStackTrace();
+            throw new RuntimeException(e);
+        }
+        return result;
+    }
 }

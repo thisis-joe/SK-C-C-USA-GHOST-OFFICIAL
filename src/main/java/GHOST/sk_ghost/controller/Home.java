@@ -1,7 +1,5 @@
 package GHOST.sk_ghost.controller;
 
-import GHOST.sk_ghost.dao.V1Dao;
-import org.springframework.web.servlet.view.RedirectView;
 import GHOST.sk_ghost.service.V1service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -9,7 +7,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.UUID;
@@ -125,5 +122,17 @@ public class Home {
     @GetMapping("/admin")
     public String tempAdminPage(Model model) {
         return "home/admin";
+    }
+
+    @GetMapping("/createSchedule")
+    public String tempAdminCreateSchedulePage(Model model) {
+        return "home/create";
+    }
+
+    //DB 저장을 위한 Controller
+    @PostMapping("/saveSchedule")
+    public ResponseEntity<String> saveScheduleInsert(@RequestBody Map<String, String> requestBody) throws Exception {
+        v1service.saveSchedule(requestBody);
+        return ResponseEntity.ok("save success");
     }
 }

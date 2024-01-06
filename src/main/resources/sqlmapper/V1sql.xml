@@ -19,5 +19,9 @@
         WHERE admin.priority IN (1,2)
         AND (DATE_FORMAT(CURDATE(), "%Y-%m-%d") = DATE_FORMAT(admin.date, "%Y-%m-%d"))
     </select>
+
+    <insert id="saveSchedule" parameterType="java.util.Map">
+        insert into admin_shift (name,date,shift,priority) values (#{name}, #{date}, #{shift}, #{priority} )
+    </insert>
 </mapper>
 
