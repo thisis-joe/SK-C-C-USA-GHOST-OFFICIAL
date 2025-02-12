@@ -7,9 +7,10 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 담당 업무: 팀장
 시작일: 2023/12/10
 종료일: 2024/02/05
-활동종류: 프로젝트
 
-[Total Schedule](GHOST%20Management%20943913322d8044cfb04827574621fa2e/Total%20Schedule%207c1b46ec7f61475d8204dce466c37400.csv)
+[Total Schedule]
+<img width="778" alt="image" src="https://github.com/user-attachments/assets/a2c1fdc2-070c-4ca8-9c8b-215be077c22b" />
+
 
 # 🎉 Introduction of our team & project 🎉
 
@@ -52,11 +53,9 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 
 ---
 
-## Developer
+## Developers
 
-![Untitled](GHOST%20Management%20943913322d8044cfb04827574621fa2e/Untitled.jpeg)
-
-![미국비자.JPG](GHOST%20Management%20943913322d8044cfb04827574621fa2e/%25E1%2584%2586%25E1%2585%25B5%25E1%2584%2580%25E1%2585%25AE%25E1%2586%25A8%25E1%2584%2587%25E1%2585%25B5%25E1%2584%258C%25E1%2585%25A1.jpg)
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/e0a9f073-0e68-490d-a95a-935b2dc2ddf5" />
 
 - HELLO!
 - My name is Dongkyun Woo.
@@ -64,6 +63,9 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 - Interested In Web, DB, Cloud, Battery
 - Major skills : JAVA, Spring Boot, AWS, MySQL, for Backend and some Frontend(JS,CSS,HTML)
 - TL
+
+  
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/88544162-4361-4aee-b4f5-f0db7b9ff580" />
 
 - Hello, I am Jeonghun Moon, working SK C&C USA MES Operator.
 - I’m full stack developer for Web & APP
