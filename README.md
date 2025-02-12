@@ -1,5 +1,4 @@
-# More Details
-https://202003092024.notion.site/GHOST-Management-943913322d8044cfb04827574621fa2e?pvs=4
+More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d8044cfb04827574621fa2e?pvs=4
 
 # GHOST Management
 
