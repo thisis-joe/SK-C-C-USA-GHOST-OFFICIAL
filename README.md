@@ -48,7 +48,7 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 
 **IP           :** [https://52.14.93.69:8080](https://52.14.93.69:8080) (IP 접속은 차단됨. 아래 도메인으로 접속 부탁합니다.)
 
-**Domain** : [https://www.ghostalpharetta.com](https://www.ghostalpharetta.com/)
+**Domain** : [https://www.ghostalpharetta.com](https://www.ghostalpharetta.com/)  (240601 부로 도메인 계약 만료 및 서비스 종료)
 
 ---
 
