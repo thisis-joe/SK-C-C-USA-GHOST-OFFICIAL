@@ -3,7 +3,7 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 
 # GHOST Management
 
-관련수업/기관: SK C&C USA<br>
+진행 기관: SK C&C USA<br>
 담당 업무: 팀장<br>
 시작일: 2023/12/10<br>
 종료일: 2024/02/05<br>
