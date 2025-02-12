@@ -54,8 +54,7 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 
 ## Developers
 
-<img width="388" alt="image" src="https://github.com/user-attachments/assets/e0a9f073-0e68-490d-a95a-935b2dc2ddf5" />
-
+<img width="228" alt="image" src="https://github.com/user-attachments/assets/1c7e11c2-c205-49df-9b9f-96da7774f11b" />
 - HELLO!
 - My name is Dongkyun Woo.
 - Working at SK C&C USA, MES Operator
@@ -64,8 +63,7 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 - TL
 
   
-<img width="388" alt="image" src="https://github.com/user-attachments/assets/88544162-4361-4aee-b4f5-f0db7b9ff580" />
-
+<img width="228" alt="image" src="https://github.com/user-attachments/assets/1fec32be-d0c3-49d6-822d-1eaf9b144221" />
 - Hello, I am Jeonghun Moon, working SK C&C USA MES Operator.
 - I’m full stack developer for Web & APP
 - I’m interested in Java, Spring Boot, JS, MySQL, and AWS.
