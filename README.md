@@ -54,18 +54,18 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 
 ## Developers
 
-<img width="228" alt="image" src="https://github.com/user-attachments/assets/1c7e11c2-c205-49df-9b9f-96da7774f11b" />
-- HELLO!
-- My name is Dongkyun Woo.
-- Working at SK C&C USA, MES Operator
-- Interested In Web, DB, Cloud, Battery
-- Major skills : JAVA, Spring Boot, AWS, MySQL, for Backend and some Frontend(JS,CSS,HTML)
-- TL
+<img width="228" alt="image" src="https://github.com/user-attachments/assets/1c7e11c2-c205-49df-9b9f-96da7774f11b" /><br>
+- HELLO!<br>
+- I'm Dongkyun Woo. (Joseph Woo) <br>
+- Working at SK C&C USA, MES Operator<br>
+- Interested In Web, DB, Cloud, Battery<br>
+- Major skills : JAVA, Spring Boot, AWS, MySQL, for Backend and some Frontend(JS,CSS,HTML)<br>
+- TL<br>
 
   
-<img width="228" alt="image" src="https://github.com/user-attachments/assets/1fec32be-d0c3-49d6-822d-1eaf9b144221" />
-- Hello, I am Jeonghun Moon, working SK C&C USA MES Operator.
-- I’m full stack developer for Web & APP
-- I’m interested in Java, Spring Boot, JS, MySQL, and AWS.
-- I’m researching smart factories and digital twins.
+<img width="228" alt="image" src="https://github.com/user-attachments/assets/1fec32be-d0c3-49d6-822d-1eaf9b144221" /><br>
+- Hello, I am Jeonghun Moon, working SK C&C USA MES Operator.<br>
+- I’m full stack developer for Web & APP<br>
+- I’m interested in Java, Spring Boot, JS, MySQL, and AWS.<br>
+- I’m researching smart factories and digital twins.<br>
 
