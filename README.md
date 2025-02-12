@@ -8,7 +8,6 @@ _More Details.. ⇨ https://202003092024.notion.site/GHOST-Management-943913322d
 시작일: 2023/12/10
 종료일: 2024/02/05
 
-[Total Schedule]
 <img width="778" alt="image" src="https://github.com/user-attachments/assets/a2c1fdc2-070c-4ca8-9c8b-215be077c22b" />
 
 
